@@ -8,7 +8,7 @@ Used [Laravel](https://laravel.com/docs/9.x) for local development.
 ## About Project(brosasia-product-aplication-api)
 Here, I Made products search and pagination api by laravel.
 
-## Tools(Laravel-blog)
+## Tools(brosasia-product-aplication-api)
 - HTML
 - CSS
 - PHP
